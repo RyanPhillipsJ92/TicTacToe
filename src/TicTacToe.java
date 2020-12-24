@@ -8,7 +8,7 @@ public class TicTacToe {
 
     public static void main(String[] args) {
         System.out.println("Let's play TIC TAC TOE");
-
+        System.out.println("Choose a number to the corosponding block");
 
         char[][] gameBoard = {{' ', '|', ' ', '|', ' '},
                             {'-', '+', '-', '+', '-'},
